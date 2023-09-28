@@ -1,7 +1,7 @@
 <!-- badges: start -->
-![GitHub](https://img.shields.io/github/license//mbag-bwk)
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status//mbag-bwk/check-project)
-![GitHub repo size](https://img.shields.io/github/repo-size//mbag-bwk)
+![GitHub](https://img.shields.io/github/license/inbo/mbag-bwk)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/inbo/mbag-bwk/check-project)
+![GitHub repo size](https://img.shields.io/github/repo-size/inbo/mbag-bwk)
 <!-- badges: end -->
 
 # MBAG - BWK
